@@ -5,6 +5,7 @@ This project will tell us about the approximate price of the laptop.
 
 We will use streamlit to create a web app to predict laptop prices.
 In a web application, we need to implement a form that takes all the inputs from users that we have used in a dataset, and by using the dumped model we predict the output and display it to a user.
+Streamlit is an open-source web framework written in Python. It is the fastest way to create data apps and it is widely used by data science practitioners to deploy machine learning models.
 
 
 ![Streamlit run app-1](https://github.com/jatin8570/Laptop_Price_Predictor/assets/137681276/c638d73c-f9ed-433f-9bc6-d91435e1ce42)
