@@ -5,10 +5,10 @@
 2. Overview about dataset
 3. Data Cleaning
 4. Exploratory Data Analysis
-5.Feature Engineering
-6.Machine learning Modeling
-7.ML web app development
-8.Deployment Machine learning app
+5. Feature Engineering
+6. Machine learning Modeling
+7. ML web app development
+8. Deployment Machine learning app
 
 ### About the Project
 * We will make a project for Laptop price prediction. The problem statement is that if any user wants to buy a laptop then our application should be compatible to provide a tentative price of laptop according to the user configurations.
